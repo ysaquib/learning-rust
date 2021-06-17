@@ -3,6 +3,9 @@
     author: Yusuf Saquib
 
     Classic implementation of a (bad) recursive linked list
+    using "Learning Rust With Entirely Too Many Lists"
+
+    https://rust-unofficial.github.io/too-many-lists/second-into-iter.html
 */
 
 use std::mem;
